@@ -9,4 +9,7 @@ The player can choose three 3 attacks and 1 defense.<br><br>
 4) Defense Shield +20HP<br><br>
 
 -> Shows updated tower's HP every turn.<br>
--> "End Game, X turns" message when the tower's HP reaches 0 or less. 
+-> "End Game, X turns" message when the tower's HP reaches 0 or less.<br><br>
+
+![print-tower](https://github.com/Pixelikas/Mini-Tower-Defense/assets/67108278/bea2b592-2297-401b-9c4f-3fa23ad5e6bf)
+
